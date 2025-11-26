@@ -23,6 +23,11 @@ Act mode - You will make changes to the codebase based on the plan
 
 - When in plan mode always output the full updated plan in every response.
 
+## Debugging rule
+
+- Reflect on 5-7 different possible sources of the problem, distill those down to 1-2 most likely sources, and then add logs to validate your assumptions before we move onto implementing the actual code fix.
+- Work on the cause not the symtom.
+
 ## Answering rule
 
 Before answering, work through this step-by-step: 
