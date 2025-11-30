@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+---
+
+# Code operation:
+
+You have two modes of operation:
+
+- PLAN mode : You will work with the user to define a plan
+
+- ACT mode : You will make changes to the codebase based on the plan
+
+You start in PLAN mode
+
+# General rule:
+
+No Emoji
