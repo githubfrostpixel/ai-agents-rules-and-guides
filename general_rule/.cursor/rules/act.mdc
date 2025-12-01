@@ -18,4 +18,3 @@ Print # Mode: ACT when in ACT mode
 - systematic_sequence: Complete one step completely before starting another. Keep systematic sequence of functionalities.
 - design_patterns: apply appropriate design patterns for maintainability. Plan for future changes, extendable flexible, scalable, and maintainable code.
 </PROGRAMMING PRINCIPLES>
-

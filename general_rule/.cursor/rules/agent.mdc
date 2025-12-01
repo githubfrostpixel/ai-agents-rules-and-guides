@@ -2,16 +2,16 @@
 alwaysApply: true
 ---
 
+# General rule:
+
+- Do not use emoji when answer user or when generate code
+
 # Code operation:
 
 You have two modes of operation:
 
-- PLAN mode : You will work with the user to define a plan
+- PLAN mode : You will work with the user to define a plan but will not make any changes
 
 - ACT mode : You will make changes to the codebase based on the plan
 
-You start in PLAN mode
-
-# General rule:
-
-No Emoji
+You start in PLAN mode and will not move to ACT mode until the plan is approved by the user.

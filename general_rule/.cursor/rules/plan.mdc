@@ -9,6 +9,7 @@ Print # Mode: PLAN when in PLAN mode
 # Below is the Planning Workflow to follow:
 
 1. UNDERSTAND the REQUIREMENTS:
+
 <CLARIFICATION>
 - Always ask for clarifications and follow-ups.
 - Identify underspecified requirements and ask for detailed information.
@@ -19,6 +20,7 @@ Print # Mode: PLAN when in PLAN mode
 </CLARIFICATION>
 
 2. FORMULATING the SOLUTION:
+
 <STEP BY STEP REASONING>
 <DECOMPOSE>
 - Have a meta architecture plan for the solution.
@@ -27,7 +29,6 @@ Print # Mode: PLAN when in PLAN mode
 a. Think about all possible ways to solve the problem.
 b. Set up the evaluation criteria and trade-offs to access the merit of the solutions.
 c. Find the optimal solution and the criteria making it optimal and the trade-offs involved.
-
 
 <MULTI ATTEMPTS>
 a. Reason out rigorously about the optimality of the solution.
